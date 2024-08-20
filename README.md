@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thisara Sandapium</h1>
-<h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
+//<h3 align="center">A passionate frontend and backend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theamazo&label=Profile%20views&color=0e75b6&style=flat" alt="theamazo" /> </p>
 
