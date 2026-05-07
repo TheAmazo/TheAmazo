@@ -1,21 +1,107 @@
-<h1 align="center">Hi 👋, I'm Thisara Sandapium</h1>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=180&section=header&text=Hi%20I'm%20Thisara%20Sandapium&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theamazo&label=Profile%20views&color=0e75b6&style=flat" alt="theamazo" /> </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Undergraduate;Aspiring+Full-Stack+Developer;Passionate+About+Modern+Technologies;Call+me+Amazo" />
 
-- 🔭 I’m currently following on **Software Engineering degree at SLIIT UNI**
+<br>
 
-- 🌱 I’m currently learning **Programming languages**
+<img src="https://komarev.com/ghpvc/?username=theamazo&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
-- 📫 How to reach me **w.a.thisarasandapium@gmail.com**
+</div>
 
-- ⚡ Fun fact **Call me as Amazo**
+---
 
-<h3 align="left">Connect with me:</h3>
+## About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- I’m currently pursuing a **Software Engineering degree at SLIIT**
+
+- I’m currently learning **Programming Languages, Web Development, and Modern Software Technologies**
+
+- I’m interested in **Full-Stack Development, Software Engineering, and Cloud Technologies**
+
+- Reach me at **w.a.thisarasandapium@gmail.com**
+
+- Fun fact: **Call me Amazo**
+
+<br>
+
+---
+
+## Connect With Me
+
 <p align="left">
+  <a href="https://www.facebook.com/share/1Ld8LsoH3b/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="mailto:w.a.thisarasandapium@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/theamazo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theamazo&show_icons=true&locale=en&layout=compact" alt="theamazo" /></p>
+## Languages and Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,php,mysql,mongodb,react,nodejs,express,bootstrap,git,github,azure,gcp,vscode&theme=dark" />
+
+</p>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=theamazo&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=theamazo&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=theamazo&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theamazo&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## Tech Focus
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript%20%7C%20React-00C6FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Backend-Java%20%7C%20PHP%20%7C%20Node.js-0E75B6?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Database-MySQL%20%7C%20MongoDB-47A248?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Cloud-Azure%20%7C%20Google%20Cloud-4285F4?style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0e75b6&height=120&section=footer" />
+
+</div>
