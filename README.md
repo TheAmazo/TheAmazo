@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Thisara%20Sandapium&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Undergraduate%20%7C%20Aspiring%20Full-Stack%20Developer&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Thisara+Sandapium;Software+Engineering+Undergraduate;Learning+Full-Stack+Development;Interested+in+React%2C+TypeScript%2C+Python+and+Automation;Call+me+Amazo" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Thisara+Sandapium;Software+Engineering+Undergraduate;Aspiring+Full-Stack+Developer;Learning+Modern+Technologies;Call+me+Amazo" />
 
 <br>
 
@@ -55,9 +55,13 @@ I am **Thisara Sandapium**, a Software Engineering undergraduate who enjoys buil
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap&theme=dark" />
 
+<br><br>
+
 ### Backend and Programming
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,php,c,cpp&theme=dark" />
+
+<br><br>
 
 ### Database, Tools and Cloud
 
@@ -73,29 +77,37 @@ I am **Thisara Sandapium**, a Software Engineering undergraduate who enjoys buil
 <tr>
 <td width="50%">
 
-### Wickramaarchchi Transport
+<h3>🚐 Wickramaarchchi Transport</h3>
 
-A TypeScript-based web project focused on transport-related system development.
+<p>
+A transport management web application built to support transport-related operations with a modern frontend structure.
+</p>
 
-**Tech Focus:**  
+<p>
+<b>Tech Focus:</b><br>
 TypeScript, React, Vite, Frontend Development
+</p>
 
-<a href="https://github.com/TheAmazo/Wickramaarchchi_Transport">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAmazo&repo=Wickramaarchchi_Transport&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/TheAmazo/Wickramaarchchi_Transport" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 <td width="50%">
 
-### Playwright Automation
+<h3>🎵 Stuzic</h3>
 
-Automation testing project using Playwright with Excel-based test cases and screenshot evidence.
+<p>
+A modern student-focused music or entertainment-related project designed with a clean and user-friendly interface.
+</p>
 
-**Tech Focus:**  
-Python, Playwright, Excel, Test Automation
+<p>
+<b>Tech Focus:</b><br>
+Web Development, UI Design, Frontend Development
+</p>
 
-<a href="https://github.com/TheAmazo/playwright-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAmazo&repo=playwright-automation&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/TheAmazo/Stuzic" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
@@ -104,29 +116,37 @@ Python, Playwright, Excel, Test Automation
 <tr>
 <td width="50%">
 
-### IT23616356
+<h3>🎓 SmartCampus Hub</h3>
 
-Playwright test automation project for website testing using structured test data.
+<p>
+A campus-focused digital platform designed to support students with academic, campus, or service-related features.
+</p>
 
-**Tech Focus:**  
-JavaScript, Playwright, QA Testing
+<p>
+<b>Tech Focus:</b><br>
+Full-Stack Development, Student System, Web Application
+</p>
 
-<a href="https://github.com/TheAmazo/IT23616356">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAmazo&repo=IT23616356&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/TheAmazo/SmartCampus-Hub" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 <td width="50%">
 
-### Learning
+<h3>💰 My Pocket</h3>
 
-A collection of beginner-to-intermediate practice work using web and programming languages.
+<p>
+A personal finance or money management project focused on helping users manage daily expenses and financial records.
+</p>
 
-**Tech Focus:**  
-HTML, CSS, JavaScript, PHP, C++, Java
+<p>
+<b>Tech Focus:</b><br>
+Python, Personal Finance, Expense Management
+</p>
 
-<a href="https://github.com/TheAmazo/Learning">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TheAmazo&repo=Learning&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/TheAmazo/My_Pocket" target="_blank">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
